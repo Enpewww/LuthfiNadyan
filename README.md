@@ -1,6 +1,6 @@
 <p align="center">
-  📫 nadyanputra10@gmail.com &nbsp;|&nbsp; 
-  <a href="https://www.linkedin.com/in/luthfi-nadyan-313b91214/" target="_blank">LinkedIn</a>
+  [mail](mailto:nadyanputra10@gmail.com) &nbsp;|&nbsp; 
+  <a href="https://linkedin.com/in/yourusername" target="_blank">LinkedIn</a>
 </p>
 
 <h1 align="center">👋 Hi there, I'm Luthfi Nadyan Putra</h1>
