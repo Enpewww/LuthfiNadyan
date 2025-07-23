@@ -1,5 +1,5 @@
 <p align="center">
-  [nadyanputra10@gmail.com](mailto:nadyanputra10@gmail.com) &nbsp;|&nbsp; 
+  <a href="mailto:nadyanputra10@gmail.com">nadyanputra10@gmail.com</a> &nbsp;|&nbsp;
   <a href="https://linkedin.com/in/yourusername" target="_blank">LinkedIn</a>
 </p>
 
